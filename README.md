@@ -1,16 +1,37 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">A Year 12 A Level student interested in a career in AI, and aspiring towards a computer science degree.</h3>
 
-- 🔭 I’m currently working on my **CyberEPQ**
+<h1 align="left">💻 About Me:</h1>
 
-- 📫 How to reach me **laurencollingwood@icloud.com**
+★ I’m currently working on my **CyberEPQ - building a website to test AI penetration testing tools** <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/laurencollingwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurencollingwood" height="30" width="40" /></a>
-</p>
+<h1 align="left">🔍 Connect with me:</h1>
+★ Linkedin: https://www.linkedin.com/in/laurencollingwood/ <br>
+★ Email: mailto:laurencollingwood@icloud.com <br>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="left">📘 Languages:</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurencollingwood&show_icons=true&locale=en&layout=compact" alt="laurencollingwood" /></p>
+★ Python <br>
+★ JavaScript<br>
+★ HTML<br>
+★ CSS<br>
+★ Chart.js<br>
+★ PHP<br>
+★ MySQL<br>
+
+<h1 align="left">🌐 Coding Experience:</h1>
+
+★ "Introduction to Machine Learning MOOC" by Code First Girls (May 2024 - Present)<br>
+★ A Level Computer Science NEA by OCR (April 2024 - Present)<br>
+★ "Generative AI Course" by DeepLearning.AI (March 2024 - March 2024)<br>
+★ "Introduction to Generative AI" by Google (February 2024 - February 2024)<br>
+★ CyberEPQ by CIIS (November 2023 - Present)<br>
+★ "CyberFirst Futures Course" by National Cyber Security Centre (July 2023 - July 2023)<br>
+★ GCSE Computer Science NEA by OCR (January 2023 - May 2023)<br>
+★ "Silver iDEA Award" by iDEA Foundation (July 2022 - August 2022)<br>
+★ "Bronze iDEA Award" by iDEA Foundation (February 2022 - May 2022)<br>
+  
+<h1 align="left">✍️ Education:</h1>
+
+★ A Levels (Art, Computer Science, Maths & CyberEPQ) (September 2023 - present)<br>
+★ 10 GCSEs (Art, Biology, Chemistry, Computer Science, English Language, English Literature, French, Geography, Maths, Physics) (September 2021 - June 2023)
