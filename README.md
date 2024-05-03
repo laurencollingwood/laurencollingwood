@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lauren</h1>
+<img src="https://i.postimg.cc/ncmm5WRG/Lauren-Collingwood.png" alt="Lauren Collingwood (Cover Image)">
+<h1 align="center" style="color:red;">Hi 👋, I'm Lauren</h1>
 <h3 align="center">A Year 12 A Level student interested in a career in AI, and aspiring towards a computer science degree.</h3>
 
 <h1 align="left">💻 About Me:</h1>
