@@ -1,16 +1,16 @@
-<img src="https://i.postimg.cc/NFvt0bTm/Lauren-Collingwood.png" alt="Lauren Collingwood (Cover Image)">
-<h1 align="center" style="color:red;">Hi 👋, I'm Lauren</h1>
+<img src="https://i.postimg.cc/J4NXnR8z/Lauren-Collingwood.png" alt="Lauren Collingwood (Cover Image)">
+<h1 align="center" style="color:red;">Hi, I'm Lauren</h1>
 <h3 align="center">A Year 12 A Level student interested in a career in AI, and aspiring towards a computer science degree.</h3>
 
-<h1 align="left">💻 About Me:</h1>
+<h1 align="left">☆ About Me:</h1>
 
 ★ I’m currently working on my **CyberEPQ - building a website to test AI penetration testing tools** <br>
 
-<h1 align="left">🔍 Connect with me:</h1>
+<h1 align="left">☆ Connect with me:</h1>
 ★ Linkedin: https://www.linkedin.com/in/laurencollingwood/ <br>
 ★ Email: mailto:laurencollingwood@icloud.com <br>
 
-<h1 align="left">📘 Languages:</h1>
+<h1 align="left">☆ Languages:</h1>
 
 ★ Python <br>
 ★ JavaScript<br>
@@ -20,7 +20,7 @@
 ★ PHP<br>
 ★ MySQL<br>
 
-<h1 align="left">🌐 Coding Experience:</h1>
+<h1 align="left">☆ Coding Experience:</h1>
 
 ★ "Introduction to Machine Learning MOOC" by Code First Girls (May 2024 - Present)<br>
 ★ A Level Computer Science NEA by OCR (April 2024 - Present)<br>
@@ -32,7 +32,7 @@
 ★ "Silver iDEA Award" by iDEA Foundation (July 2022 - August 2022)<br>
 ★ "Bronze iDEA Award" by iDEA Foundation (February 2022 - May 2022)<br>
   
-<h1 align="left">✍️ Education:</h1>
+<h1 align="left">☆ Education:</h1>
 
 ★ A Levels (Art, Computer Science, Maths & CyberEPQ) (September 2023 - present)<br>
 ★ 10 GCSEs (Art, Biology, Chemistry, Computer Science, English Language, English Literature, French, Geography, Maths, Physics) (September 2021 - June 2023)
