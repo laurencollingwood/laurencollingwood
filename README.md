@@ -8,7 +8,7 @@
 
 <h1 align="left">☆ Connect with me:</h1>
 ★ Linkedin: https://www.linkedin.com/in/laurencollingwood/ <br>
-★ Email: mailto:laurencollingwood@icloud.com <br>
+★ Email: laurencollingwood@icloud.com <br>
 
 <h1 align="left">☆ Languages:</h1>
 
