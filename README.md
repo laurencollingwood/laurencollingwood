@@ -12,7 +12,7 @@
 
 <h1 align="left">☆ Languages:</h1>
 
-★ Python <br>
+★ Python<br>
 ★ JavaScript<br>
 ★ HTML<br>
 ★ CSS<br>
