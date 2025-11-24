@@ -1,4 +1,4 @@
-<img src="[https://i.postimg.cc/J4NXnR8z/Lauren-Collingwood.png" alt="Lauren Collingwood (Cover Image)">
+<img src="https://i.postimg.cc/J4NXnR8z/Lauren-Collingwood.png" alt="Lauren Collingwood (Cover Image)">
 <h1 align="center" style="color:red;">Hi, I'm Lauren</h1>
 <h3 align="center">A first-year student studying Computer Science and AI at Queen Mary University of London.</h3>
 <h3 align="center">Including a year in industry tbc.</h3>
